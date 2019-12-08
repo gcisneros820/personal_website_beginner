@@ -3,12 +3,12 @@ body {
   }
 hr {
     border-style: dotted none none;
-    border-color: #730068;
+    border-color: #d77fa1;
     border-width: 5px;
     width:100%;
   }
 img {
-  height:80px;
+  height:190px;
 }
 h1{
   color: #730068;
